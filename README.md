@@ -63,6 +63,10 @@ You can use the following code:
 5. If you look at your code now, you'll see that the code you had on GitHub is now on your local computer. 
 
 **Git Branch**
+What if you're working with multiple people and you want to keep the code separate?
+Branches are great for this! Branches can *branch* off and do their own thing, until you make a *pull request* (a way to suggest a change by supplying code) and *merge* with the main code.
 
+1. Open GitHub Desktop and click the middle branch on the top that says `Current Branch main`
+2. Click `New Branch` and add your name (typically the name of what you're about to do) and click `Create Branch`
 
 ## Hosting a Website for Free?
