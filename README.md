@@ -68,5 +68,16 @@ Branches are great for this! Branches can *branch* off and do their own thing, u
 
 1. Open GitHub Desktop and click the middle branch on the top that says `Current Branch main`
 2. Click `New Branch` and add your name (typically the name of what you're about to do) and click `Create Branch`
+3. Here, you'll do the same thing. As before on your local computer, except introduce a new edit, maybe say a paragraph tag that you like to code
+```
+<p>I love to code!</p>
+```
+4. Go ahead and add, commit, and push this.
+5. Log back onto GitHub, you'll see a notification that a branch has had recent commits, click the `Pull Request` button on the right of this notification.
+6. Open this pull request and notice how you can see the commit names and the file changed. This is really great when you have a bunch of team members creating different things and you want to see what's all going on!
+7. Once you've decided that this branch is good and you like the code here, you can go ahead and merge it and delete the branch! Now everything's on main
+
+**What's a Merge Conflict?**
+The danger with having 
 
 ## Hosting a Website for Free?
