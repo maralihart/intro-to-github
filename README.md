@@ -78,6 +78,20 @@ Branches are great for this! Branches can *branch* off and do their own thing, u
 7. Once you've decided that this branch is good and you like the code here, you can go ahead and merge it and delete the branch! Now everything's on main
 
 **What's a Merge Conflict?**
-The danger with having 
+The danger with having everyone edit is that sometimes those commits -- the snapshots -- won't always sync up.
 
-## Hosting a Website for Free?
+1. Create a branch called `change-a` and add a change and submit a pull request according to the instructions above, but don't yet merge the pull request.
+2. Repeat step 1 with a new branch called `change-b`.
+3. Merge `change-a` to main.
+4. View the `change-b` pull request, scroll down and you'll see that there is a merge conflict and you can solve it on GitHub. Simply remove the parts you don't want and click `Resolve Conflicts`
+5. Go ahead and merge just like normal!
+
+## Hosting a Website for Free!
+Now, we have a working .html file that can be a webpage. A really easy hackathon project is a simple website that has information. But usually you want somewhere to host it so you can check it out from your phone or even a friend's computer!
+
+1. Simply go to your Settings
+2. Scroll down to GitHub Pages
+3. Select the main branch to deploy from!
+4. Refresh the page and you'll see a link appear
+5. Click the link, you may have to wait a couple minutes (the bigger the project, the longer the wait)
+6. Pull it up from your phone and see it from wherever!
